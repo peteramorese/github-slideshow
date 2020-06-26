@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "welcome to our second slide!"
+title: "Welcome to our second slide!"
 ---
-Your text
-Use the lfet arrow to go back!
+Scooby Snack
+Use the left arrow to go back!
